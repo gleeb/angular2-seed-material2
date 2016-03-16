@@ -1,4 +1,5 @@
-# Angular2-Seed Materialized ( material2-2.0.0-alpha.0 )
+# Angular2-Seed Materialized
+> material2-2.0.0-alpha.0
 
 ## Deviations from the based seed project
 - Angular2-Material
