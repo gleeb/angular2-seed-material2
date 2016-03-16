@@ -5,7 +5,7 @@
 - Angular2-Material
 - SASS (Because CSS === Yuck)
 
-## This repo is intended to guide you through the addition of Angular2-Material ontop of your fork
+## This repo is intended to guide you through the addition of Angular2-Material on top of your angular2-seed fork
 - Please don't make project forks of this repo unless it's for contribution ( build ontop of the official seed )
 - Outside of the guide walking you through adding material, I will be adding other components as they land in Material
 
