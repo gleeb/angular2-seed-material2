@@ -1,4 +1,4 @@
-# Angular2-Seed Materialized [![Build Status](https://travis-ci.org/DeviantJS/angular2-seed-material2.svg?branch=master)](https://travis-ci.org/DeviantJS/angular2-seed-material2)
+# Angular2-Seed Materialized [![Build Status](https://travis-ci.org/DeviantJS/angular2-seed-material2.svg?branch=master)](https://travis-ci.org/DeviantJS/angular2-seed-material2) [![codecov.io](https://codecov.io/github/DeviantJS/angular2-seed-material2/coverage.svg?branch=master)](https://codecov.io/github/DeviantJS/angular2-seed-material2?branch=master)
 > material2-2.0.0-alpha.0
 
 ## Deviations from the based seed project
