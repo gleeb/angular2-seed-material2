@@ -8,7 +8,7 @@ export class ProjectConfig extends SeedConfig {
   constructor() {
     super();
     this.APP_TITLE = 'Angular2-Seed Materialized';
-    let additional_deps: Array<any> = [
+    let additional_deps: InjectableDependency[] = [
       // {src: 'jquery/dist/jquery.min.js', inject: 'libs'},
       // {src: 'lodash/lodash.min.js', inject: 'libs'},
       { src: '@angular2-material/core/core.js', inject: 'libs' },
